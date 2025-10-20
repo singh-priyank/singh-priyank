@@ -3,7 +3,7 @@
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 
-I'm **Priyank Kumar Singh**. I am a backend developer from Bengaluru, India. I'm currently working at @Soroco as a Software Engineer.<br>
+I'm **Priyank Kumar Singh**. I am a backend developer from Bengaluru, India. I'm currently working at @Google as a Software Engineer.<br>
 Currently I'm busy getting the hang of Rust and comparing it with C#.
 
 🔭 I’m currently working on Windows API's with C#<br>🤝 I’m looking for help with Machine Learning using Rust<br>🌱 I’m currently learning Rust and machine learning on Edge<br>💬 Ask me about Windows API's, Competitive Programming, Web Scraping <br>⚡ Fun fact: I can sleep anywhere anytime😅 <br><br>
